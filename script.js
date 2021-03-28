@@ -1,0 +1,1 @@
+const testimonialContainer = document.querySelector
