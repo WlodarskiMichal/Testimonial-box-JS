@@ -1,0 +1,2 @@
+Project is one of 50 projects in 50 days, udemy course given by Brad Traversy. 
+We focus here on building testimonials that can be displayed on website giving reviews, opinions or something in this matter, built only with Vanilla JS, CSS and HTML. 
